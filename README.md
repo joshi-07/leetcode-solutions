@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/joshi-07/leetcode-solutions/tree/master/0835-image-overlap) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/joshi-07/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/joshi-07/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
