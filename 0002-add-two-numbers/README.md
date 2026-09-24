@@ -29,7 +29,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in each linked list is in the range <code>[1, 100]</code>.</li>
+	<li>The number of nodes in each linked list is in  the range <code>[1, 100]</code>.</li>
 	<li><code>0 &lt;= Node.val &lt;= 9</code></li>
 	<li>It is guaranteed that the list represents a number that does not have leading zeros.</li>
 </ul>
