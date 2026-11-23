@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/joshi-07/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/joshi-07/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/joshi-07/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/joshi-07/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/joshi-07/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/joshi-07/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/joshi-07/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/joshi-07/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/joshi-07/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/joshi-07/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/joshi-07/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/joshi-07/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/joshi-07/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/joshi-07/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/joshi-07/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/joshi-07/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3364-minimum-positive-sum-subarray](https://github.com/joshi-07/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -333,4 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/joshi-07/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/joshi-07/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/joshi-07/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
